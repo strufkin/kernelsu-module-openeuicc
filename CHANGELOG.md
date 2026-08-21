@@ -1,3 +1,6 @@
+## v262108
+- Added READ_PRIVILEGED_PHONE_STATE
+
 ## v250101
 - Add dependabot with the official OpenEUICC repository + auto-merge PR from dependabot
 - Change building workflow
