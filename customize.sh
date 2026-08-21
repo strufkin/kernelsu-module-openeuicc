@@ -12,3 +12,4 @@ pm install -r "$TMP_FILE"
 rm -f "$TMP_FILE"
 
 pm grant "im.angry.openeuicc" android.permission.READ_PHONE_STATE
+pm grant "im.angry.openeuicc" android.permission.READ_PRIVILEGED_PHONE_STATE
