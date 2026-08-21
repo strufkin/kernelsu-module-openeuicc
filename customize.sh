@@ -13,3 +13,4 @@ rm -f "$TMP_FILE"
 
 pm grant "im.angry.openeuicc" android.permission.READ_PHONE_STATE
 pm grant "im.angry.openeuicc" android.permission.READ_PRIVILEGED_PHONE_STATE
+pm grant "im.angry.openeuicc" android.permission.MODIFY_PHONE_STATE
